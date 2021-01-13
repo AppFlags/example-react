@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "appflags-react": "^0.0.3-alpha",
+    "appflags-react": "^0.0.4-alpha",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^4.0.1"
