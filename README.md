@@ -2,7 +2,7 @@
 
 Simple app demonstrating how to use AppFlags in a React application. 
 
-For more information, see the docs: https://docs.appflags.io/react/
+For more information, see the docs: https://docs.appflags.io/sdks/react
 
 ### To run the example
 
